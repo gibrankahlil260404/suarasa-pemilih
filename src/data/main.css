@@ -382,7 +382,7 @@ header {
 
 @media screen and (max-width: 475px) {
     .homepage .kandidat .row:nth-child(2) {
-        margin: 12px;
+        margin: 10px;
     }
 }
 /* style homepage kandidat end */
