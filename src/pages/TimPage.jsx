@@ -28,7 +28,7 @@ const TimPage = () => {
                         return (
                             <Col key={Tim.id} data-aos="fade-up" data-aos-duration="500">
                                 <div className="card-anggota-tim animate__animated animate__fadeInUp animate__delay-1s;">
-                                    <img src={Tim.fotoTim} className="w-100" />
+                                    <img src={Tim.fotoTim} />
                                     <h3 data-aos="fade-up" data-aos-duration="500">
                                         {Tim.namaTim}
                                     </h3>
