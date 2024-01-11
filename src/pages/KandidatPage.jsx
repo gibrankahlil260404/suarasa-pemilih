@@ -60,6 +60,9 @@ const KandidatPage = () => {
                 </Row>
                 <Row>
                     <Col>
+                        <h1 className="jadwal">
+                        Jadwal Debat
+                        </h1>
                         <Table responsive="sm">
                             <thead>
                                 <tr>
