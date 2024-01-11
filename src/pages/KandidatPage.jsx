@@ -60,10 +60,8 @@ const KandidatPage = () => {
                 </Row>
                 <Row>
                     <Col>
-                        <h1 className="jadwal">
-                        Jadwal Debat
-                        </h1>
-                        <Table responsive="sm">
+                        <h1 className="animate__animated animate__fadeInUp animate__delay-1s text-center">Jadwal Debat</h1>
+                        <Table responsive>
                             <thead>
                                 <tr>
                                     <th>Tema Debat</th>
